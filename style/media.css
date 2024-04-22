@@ -1,0 +1,40 @@
+@media  only screen and (min-width:1200px){
+    .nav-item > .nav-link{
+       padding:5px 20px!important;
+       display:block;
+    }
+    }
+    
+    @media  only screen and (max-width:992px){
+    .header-inner{
+      background-color:white;
+      width:100%!important;
+    }
+     .nav-item .nav-link {
+      color:black;
+    }
+    
+    .section h1{
+        font-size:40px!important;
+        line-height:55px!important;
+    }
+    
+    .navbar-brand{
+        color: #000!important;
+        font-weight:600;
+    }
+    
+    .content-banner .first-title {
+        font-size: 30px;
+    }
+    }
+    @media  only screen and (max-width:576px){
+    .search-model-form input {
+        width: 257px!important;
+        font-size: 20px!important;
+        border: none;
+        border-bottom: 2px solid #333;
+        background: none;
+        color: #999;
+    }
+    }
